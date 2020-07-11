@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dc213ef8f7d6c585ef1c2bf393dfc100",
+    "revision": "6ad0fd09fa84e648955b4ecc0b496d0a",
     "url": "/premier-league-test/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/premier-league-test/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "70547c8d55306d13a3c5",
+    "revision": "7564c9ee946128107038",
     "url": "/premier-league-test/static/css/main.a865722b.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/premier-league-test/static/js/2.bd3eb649.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "70547c8d55306d13a3c5",
-    "url": "/premier-league-test/static/js/main.dd15976d.chunk.js"
+    "revision": "7564c9ee946128107038",
+    "url": "/premier-league-test/static/js/main.08ca67a1.chunk.js"
   },
   {
     "revision": "8121d85bfe92d5b3a15c",
