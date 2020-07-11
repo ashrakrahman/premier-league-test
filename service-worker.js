@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/premier-league-test/precache-manifest.15acc072d43bc1a494d9427a49351bb4.js"
+  "/premier-league-test/precache-manifest.7240f0105ce18658437822b7f9c675e0.js"
 );
 
 self.addEventListener('message', (event) => {
